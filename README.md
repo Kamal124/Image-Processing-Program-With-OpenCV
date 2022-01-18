@@ -20,7 +20,7 @@ Smoothing and Sharpening techniques in frequency domain and (Image compression a
 
     MS Visual Studio
     C++
-    OpenCV
+    OpenCV 3.4.7
     jackylib.h
     fstream
     vector
